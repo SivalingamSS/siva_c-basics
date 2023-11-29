@@ -1,0 +1,35 @@
+Insufficient funds!
+Checking Account Details:
+Account Number: 1001
+Customer Details:
+Customer ID: 2
+Name: Jane Smith
+Email: jane@example.com
+Balance: $1500.00
+
+Withdrawal successful. Remaining balance: $500.00
+Insufficient funds!
+Savings Account Details:
+Account Number: 1000
+Customer Details:
+Customer ID: 1
+Name: John Doe
+Email: john@example.com
+Balance: $500.00
+
+Checking Account Details:
+Account Number: 1001
+Customer Details:
+Customer ID: 2
+Name: Jane Smith
+Email: jane@example.com
+Balance: $1500.00
+
+Monthly interest added. New balance: $512.50
+Savings Account Details:
+Account Number: 1000
+Customer Details:
+Customer ID: 1
+Name: John Doe
+Email: john@example.com
+Balance: $512.50

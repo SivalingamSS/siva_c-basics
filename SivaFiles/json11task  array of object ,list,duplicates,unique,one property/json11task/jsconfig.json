@@ -1,0 +1,23 @@
+[
+  {
+    "id": 22,
+    "Name": "sivalingam",
+    "Address": "krishnagiri",
+    "amount": 2000,
+    "collegename": "srmvcas"
+  },
+  {
+    "id": 23,
+    "Name": "saran",
+    "Address": "namakala",
+    "amount": 2300,
+    "collegename": "pmc"
+  },
+  {
+    "id": 22,
+    "Name": "mani",
+    "Address": "salem",
+    "amount":5000,
+    "collegename": "kct"
+  }
+]
